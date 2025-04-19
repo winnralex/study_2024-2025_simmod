@@ -1,13 +1,13 @@
 ---
 ## Front matter
 lang: ru-RU
-title: Лабораторная работа №8
+title: Лабораторная работа №11
 subtitle: Модель TCP/AQM
 author:
   - Шуплецов А. А.
 institute:
   - Российский университет дружбы народов, Москва, Россия
-date: 29 марта 2025
+date: 19 апреля 2025
 
 ## i18n babel
 babel-lang: russian
